@@ -37,7 +37,7 @@ Hola, soy muy curioso por aprender y entender como crear soluciones con la progr
 
 ## 📫 Conecta Conmigo:
 - GitHub: [Lalo029969](https://github.com/Lalo029969)
-- LinkedIn: (https://www.linkedin.com/in/eduardo029966/)
+- LinkedIn: [Eduardo029966](https://www.linkedin.com/in/eduardo029966/)
 
 ---
 
