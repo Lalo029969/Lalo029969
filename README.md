@@ -1,7 +1,7 @@
 # Lalo 😉👋  
 **`Multitasking`**
 
-Hola, soy muy curioso por aprender y entender como crear soluciones con la programación. Me encanta construir soluciones útiles, explorar nuevas tecnologías y compartir lo que aprendo en el camino. Siempre estoy dispuesto a aprender, colaborar y crear herramientas eficientes.
+Soy muy curioso por aprender y entender como crear soluciones con la programación. Me encanta construir soluciones útiles, explorar nuevas tecnologías y compartir lo que aprendo en el camino. Siempre estoy dispuesto a aprender, colaborar y crear herramientas eficientes.
 
 ---
 
